@@ -1,0 +1,8 @@
+export default function TiendaCreada() {
+  return (
+    <div style={{ fontFamily: 'Arial', padding: '2rem' }}>
+      <h1>🎉 ¡Tu tienda fue creada!</h1>
+      <p>En breve recibirás un correo con más instrucciones.</p>
+    </div>
+  );
+}
